@@ -24,9 +24,10 @@ Ugander](https://stanford.edu/~jugander/). I'm interested in applying
 statistics, machine learning, and network science to study *people* and the
 systems we all participate in. My current research applies discrete choice
 models in school choice to model and simulate household preferences, partnering
-with the San Francisco Unified School District for data access. In the past,
-I've done work in [recommender systems](https://cs229.stanford.edu/proj2018/report/22.pdf)
-and [balanced graph partitioning](https://dl.acm.org/doi/abs/10.1145/3394486.3403239).
+with the San Francisco Unified School District for data access, for the purpose
+of simulation and policy evaluation. In the past, I've done work in
+[recommender systems](https://cs229.stanford.edu/proj2018/report/22.pdf) and
+[balanced graph partitioning](https://dl.acm.org/doi/abs/10.1145/3394486.3403239).
 
 I'm also very good at [ultimate frisbee](http://furyultimate.com/), earning
 World and National titles in 2018 and 2021, am always listening to
