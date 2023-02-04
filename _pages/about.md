@@ -6,20 +6,29 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
+  image: amel_laugh.jpg
+  image_circular: true # crops the image to make it circular
+  <!-- address: >
     <p>555 your office number</p>
     <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Your City, State 12345</p> -->
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there! I'm a PhD student at Stanford University at the Institute for
+Computational and Mathematical Engineering (ICME), advised by [Johan
+Ugander](https://stanford.edu/~jugander/). I'm interested in applying
+statistics, machine learning, and network science to study *people* and the
+systems we all participate in. My current research applies discrete choice
+models in school choice to model and simulate household preferences, partnering
+with the San Francisco Unified School District for data access. In the past,
+I've done work in [recommender systems](https://cs229.stanford.edu/proj2018/report/22.pdf)
+and [balanced graph partitioning](https://dl.acm.org/doi/abs/10.1145/3394486.3403239).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm also very good at [ultimate frisbee](http://furyultimate.com/), earning
+World and National titles in 2018 and 2021, am always listening to
+[music](https://open.spotify.com/user/1228415059), and drink a cup of chai
+(almost) everyday.
