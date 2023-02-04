@@ -50,9 +50,9 @@
     - title: <a href="https://github.com/ameloa/streamorder">streamorder</a>
       year: 2020-now
       description: TBD.
-    - title: <a href="https://github.com/ameloa/rankingmodels">rankingmodels</a>
-      year: 2023-now
-      description: TBD.
+    # - title: <a href="https://github.com/ameloa/rankingmodels">rankingmodels</a>
+    #   year: 2023-now
+    #   description: TBD.
 
 - title: Honors and Awards
   type: time_table
