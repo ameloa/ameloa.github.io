@@ -5,12 +5,12 @@ permalink: /
 <!-- subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. -->
 
 profile:
-  align: right
+  align: left
   image: amel_laugh.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Stanford University</p>
-    <p>Oakland, CA</p>
+    <!-- <p>Stanford University</p> -->
+    <!-- <p>Oakland, CA</p> -->
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
