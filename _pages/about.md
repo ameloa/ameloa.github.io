@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi there! I'm a PhD student at Stanford University at the Institute for
 Computational and Mathematical Engineering (ICME), advised by [Johan
-Ugander](https://stanford.edu/~jugander/). I'm interested in applying
+Ugander](https://stanford.edu/~jugander/). I'm interested in applying tools from
 statistics, machine learning, and network science to study *people* and the
 systems we all participate in. My current research applies discrete choice
 models in school choice to model and simulate household preferences, partnering
