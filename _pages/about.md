@@ -21,13 +21,14 @@ I'm a PhD student at Stanford University at the Institute for
 Computational and Mathematical Engineering (ICME), advised by [Johan
 Ugander](https://stanford.edu/~jugander/). I'm interested in applying tools from
 statistics, machine learning, causal inference, and network science to study
-*people* and the systems we all participate in. My current research applies
+*people* and the systems we all participate in. My current research uses
 discrete choice models to model household preferences for school choice, in
 partnership with the San Francisco Unified School District, for the purpose
-of simulation and policy evaluation. In the past, I've done work in
+of inference and policy evaluation. In the past, I've done work in
 [recommender systems](https://cs229.stanford.edu/proj2018/report/22.pdf) and
 [balanced graph partitioning](https://dl.acm.org/doi/abs/10.1145/3394486.3403239).
 
+
 I'm also very good at [ultimate frisbee](http://furyultimate.com/), earning
 World and National titles in 2018 and 2021, am always listening to music, and
-drink a cup of chai (almost) everyday. Welcome to my website!
+drink a cup of homemade chai (almost) everyday. Welcome to my website!
