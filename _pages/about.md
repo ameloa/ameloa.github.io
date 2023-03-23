@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 I'm a PhD student at Stanford University at the Institute for
 Computational and Mathematical Engineering (ICME), advised by [Johan
 Ugander](https://stanford.edu/~jugander/). I'm interested in applying tools from
-statistics, machine learning, causal inference, and network science to study
+statistics, network science, causal inference, and machine learning to study
 *people* and the systems we all participate in. My current research uses
 discrete choice models to model household preferences for school choice, in
 partnership with the San Francisco Unified School District, for the purpose
