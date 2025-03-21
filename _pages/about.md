@@ -17,11 +17,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a PhD student at Stanford University at the Institute for
-Computational and Mathematical Engineering (ICME), advised by [Johan
-Ugander](https://stanford.edu/~jugander/). I'm interested in applying tools from
-statistics, network science, causal inference, and machine learning to study
-*people* and the systems we all participate in. My current research uses
+I'm a Research Scientist at Meta on the Central Applied Science team, working on
+GenAI for labeling efforts; utilizing large language models (LLMs) to label
+content at scale across ads and organic content, for use in downstream
+monetization and personalization tasks.
+
+
+I'm also a PhD graduate in Computational Math from Stanford University, advised
+by [Johan Ugander](https://stanford.edu/~jugander/). There, my research developed
 discrete choice models to model household preferences for school choice, in
 partnership with the San Francisco Unified School District, for the purpose
 of inference and policy evaluation. In the past, I've done work in
