@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: left
-  image: amel_laugh.jpg
+  image: amel_spain_2.jpg
   image_circular: true # crops the image to make it circular
   address: >
     <!-- <p>Stanford University</p> -->
